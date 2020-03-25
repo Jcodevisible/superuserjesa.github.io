@@ -27,7 +27,7 @@ hr {
 }
 
 .btn {
-	margin: 1rem;
+	margin: .7rem;
 	font-weight: 700;
 	border-radius: 300px; /*makes edges more circular */
 	text-transform: uppercase;
