@@ -3,7 +3,7 @@ html {
   width: 100%; /*always have this */
   height: 100%;  /*always have this */
   font-family: 'Montserrat', sans-serif;
-  background: url(images/backgroundimage5.jpg) no-repeat center center fixed; /*won't repeat the image */
+  background: url(images/backgroundimage4.jpg) no-repeat center center fixed; /*won't repeat the image */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
